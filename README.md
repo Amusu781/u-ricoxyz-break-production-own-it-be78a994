@@ -1,8 +1,8 @@
 # break-production-own-it
 
 [![make.fun · u-ricoxyz-break-production-own-it-be78a994](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
-[![rank](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/{owner}/{repo}/rank.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
-[![reward](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/{owner}/{repo}/reward.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
+[![rank](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/Amusu781/u-ricoxyz-break-production-own-it-be78a994/rank.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
+[![reward](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/Amusu781/u-ricoxyz-break-production-own-it-be78a994/reward.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
 
 A brutally honest one-line confession: the exact line an AI agent prints the instant it breaks production — a failed migration, a failed rollback, and a backup that never existed.
 
